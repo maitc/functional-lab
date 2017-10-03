@@ -1,0 +1,27 @@
+{
+  "name": "01-state",
+  "version": "1.0.0",
+  "description": "primeros ejercicios de programacion funcional",
+  "main": "lowercaser.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "functional",
+    "funcional",
+    "programming",
+    "program",
+    "js"
+  ],
+  "author": "Maibeet Torres",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
